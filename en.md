@@ -1,8 +1,8 @@
-# Privacy policy for [your Discord bot name]
+# Privacy policy for Herukan
 
-## 1. general information
+## 1. General information
 
-We, Kilian and Timo, take the protection of your personal data very seriously and adhere strictly to the rules of data protection laws. This privacy policy informs you about how our Discord bot, [your bot name], collects, uses and protects data.
+We, Kilian and Timo, take the protection of your personal data very seriously and adhere strictly to the rules of data protection laws. This privacy policy informs you about how our Discord bot, Herukan, collects, uses and protects data.
 
 
 ## 2 Data collected
@@ -11,7 +11,7 @@ Our bot collects the following information:
 Message content: To enable the global chat function, our bot reads messages in the channels in which it is active. These messages are deleted immediately after processing and are not stored.
 User information: No personal user data is permanently stored or shared.
 
-## 3. purpose of data collection
+## 3. Purpose of data collection
 
 Data is collected exclusively for the following purposes:
 Message monitoring and filtering: To protect users from inappropriate or harmful content.
