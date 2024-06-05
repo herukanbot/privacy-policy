@@ -1,4 +1,4 @@
-Datenschutzerklärung für [Euren Discord-Bot-Namen]
+# Datenschutzerklärung für [Euren Discord-Bot-Namen]
 
 ## 1. Allgemeine Informationen
 
