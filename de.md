@@ -1,8 +1,8 @@
-# Datenschutzerklärung für [Euren Discord-Bot-Namen]
+# Datenschutzerklärung für Herukan
 
 ## 1. Allgemeine Informationen
 
-Wir, Kilian und Timo, nehmen den Schutz Ihrer persönlichen Daten sehr ernst und halten uns strikt an die Regeln der Datenschutzgesetze. Diese Datenschutzerklärung informiert Sie darüber, wie unser Discord-Bot, [Euer Bot-Name], Daten sammelt, verwendet und schützt.
+Wir, Kilian und Timo, nehmen den Schutz Ihrer persönlichen Daten sehr ernst und halten uns strikt an die Regeln der Datenschutzgesetze. Diese Datenschutzerklärung informiert Sie darüber, wie unser Discord-Bot, Herukan, Daten sammelt, verwendet und schützt.
 
 
 ## 2. Erhobene Daten
