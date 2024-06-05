@@ -44,7 +44,7 @@ Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu ändern
 
 Bei Fragen zu dieser Datenschutzerklärung oder zur Verarbeitung Ihrer persönlichen Daten, können Sie uns jederzeit kontaktieren:
 
-Kilian und Timo
+Kilian und Timo -
 Team Herukan
 
 (info@herukan.com)
